@@ -1,0 +1,9 @@
+; Duo integration config
+; Remove ".example" before use
+
+[duo]
+
+ikey = <XXX>
+skey = <XXX>
+akey = <XXX>
+host = <XXX>
