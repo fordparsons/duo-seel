@@ -8,7 +8,7 @@ https://docs.docker.com/docker-for-mac/install/
 ### The installation provides git
 It's in the app store!
 
-# Clone duo-seel
+## Clone duo-seel
 ### This makes a new directory on your laptop filled with seel guts!
 cd <path above where you want duo-seel to live>
 git clone https://github.com/fordparsons/duo-seel.git
