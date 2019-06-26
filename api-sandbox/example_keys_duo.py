@@ -1,0 +1,10 @@
+# Constants for Duo API calls
+
+DUO_ADMINAPI_IKEY = ""
+DUO_ADMINAPI_SKEY = ""
+DUO_ADMINAPI_APIHOSTNAME = ""
+
+# Constants for Auth API calls
+DUO_AUTHAPI_IKEY = ""
+DUO_AUTHAPI_SKEY = ""
+DUO_AUTHAPI_APIHOSTNAME = ""

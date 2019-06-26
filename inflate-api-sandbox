@@ -1,0 +1,3 @@
+#!/bin/bash
+docker build --no-cache -t inflate_api_sandbox ./api-sandbox/.
+docker run -it --rm inflate_api_sandbox
